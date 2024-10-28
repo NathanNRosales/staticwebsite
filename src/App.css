@@ -35,8 +35,18 @@
 
 .card {
   padding: 2em;
+  align-items: center;
+  justify-content: flex-start;
 }
 
 .read-the-docs {
   color: #888;
 }
+
+.img {
+  height: 100vh;
+ display: flex;
+ justify-content: flex-end;
+ align-items: center;
+}
+
